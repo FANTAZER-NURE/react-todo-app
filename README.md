@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+# React ToDo App
 
-To use this template click `Use this template`
+[DEMO LINK](https://FANTAZER-NURE.github.io/react-todo-app/) 
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Used technologies
+  * HTML
+  * SASS
+  * Bulma
+  * React (with Typescript)
+  * React Router
